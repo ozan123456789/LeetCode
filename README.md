@@ -1,2 +1,2 @@
 # LeetCode
-repo for LeetCode solutions
+Repo for LeetCode solutions
