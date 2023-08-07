@@ -1,7 +1,7 @@
 public class Solution {
     public bool IsPalindrome(int x) {
-        
-        return x.ToString()==new string(x.ToString().ToCharArray().Reverse().ToArray());
+        string ReverseX=new string(x.ToString().ToCharArray().Reverse().ToArray());
+        return x.ToString()==ReverseX;
 
     }
 }
